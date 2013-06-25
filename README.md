@@ -23,3 +23,9 @@ It's really easy, just add the code below to you CSS file...
 the highlight color is set to orange in the code snippet above. Change the hexadecimal to whatever you prefer.
 
 =======
+
+```
+--> make sure to check out the demo
+```
+
+### demo at [terld.com](http://terld.com/)
