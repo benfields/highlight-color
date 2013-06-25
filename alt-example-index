@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+<title>Demo</title>
+<link rel="stylesheet" type="text/css" href="alt-style.css" />
+</head>
+
+<body>
+<h1>Example</h1>
+<h2>orange highlight</h2>
+<p>Try highlighting this text</p>
+</body>
+
+</html>
