@@ -24,6 +24,22 @@ the highlight color is set to orange in the code snippet above. Change the hexad
 
 =======
 
+Below, there is a code snippet where the highlight color has been changed to green
+
+```
+/* the color is currently set to lime green, change it as you please */
+
+::selection {
+    background: #60bd5b; /* Safari, Chrome, IE, Opera, & More */
+    color: #ffffff;
+    }
+::-moz-selection {
+    background: #60bd5b; /* Firefox */
+    color: #ffffff;
+}
+```
+=======
+
 ```
 --> make sure to check out the demo
 ```
