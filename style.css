@@ -1,0 +1,12 @@
+
+/* The highlight color is currently set to orange */
+
+
+::selection {
+    background: #ea7e3f; /* Safari, Chrome, IE, Opera, & More */
+    color: #ffffff;
+    }
+::-moz-selection {
+    background: #ea7e3f; /* Firefox */
+    color: #ffffff;
+}
