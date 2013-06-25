@@ -48,7 +48,7 @@ nothing needs to be added to the html file, only to the css, and only add it onc
 
 
 ```
---> make sure to check out the demo
+--> make sure to check out the live demo
 ```
 
 ### demo at [terld.com](http://terld.com/)
