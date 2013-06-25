@@ -45,7 +45,6 @@ Below, there is a code snippet where the highlight color has been changed to gre
 nothing needs to be added to the html file, only to the css, and only add it once, unless you are adding it to a different file.
 
 =======
-=======
 
 
 ```
