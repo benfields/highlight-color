@@ -1,0 +1,10 @@
+/* the highlight color is curently set to lime green */
+
+::selection {
+    background: #60bd5b; /* Safari, Chrome, IE, Opera, & More */
+    color: #ffffff;
+    }
+::-moz-selection {
+    background: #60bd5b; /* Firefox */
+    color: #ffffff;
+}
