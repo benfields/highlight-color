@@ -3,7 +3,7 @@ Highlight Color
 
 This is a simple way to change the highlighting color on web based applications using CSS.
 
-It's really easy, just add the code below to you CSS file...
+It's really easy, just add the code below to your CSS file...
 
 ```
 
