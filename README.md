@@ -40,9 +40,27 @@ Below, there is a code snippet where the highlight color has been changed to gre
 ```
 =======
 
+another great color to try is tomato
+
+```
+
+/* the color is currently set to tomato, change it as you please */
+
+::selection {
+    background: #ff4d2e; /* Safari, Chrome, IE, Opera, & More */
+    color: #ffffff;
+    }
+::-moz-selection {
+    background: #ff4d2e; /* Firefox */
+    color: #ffffff;
+}
+```
+
+=======
+
 #### Note:
 
-nothing needs to be added to the html file, only to the css, and only add it once, unless you are adding it to a different file.
+nothing needs to be added to the html file, only to the css, and only add it once.
 
 =======
 
