@@ -6,7 +6,6 @@ This is a simple way to change the highlighting color on web based applications 
 It's really easy, just add the code below to your CSS file...
 
 ```
-
 /* the color is currently set to orange, change it as you please */
 
 ::selection {
@@ -43,7 +42,6 @@ Below, there is a code snippet where the highlight color has been changed to gre
 another great color to try is tomato
 
 ```
-
 /* the color is currently set to tomato, change it as you please */
 
 ::selection {
