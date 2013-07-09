@@ -5,7 +5,7 @@ This is a simple way to change the highlighting color on web based applications 
 
 It's really easy, just add the code below to your CSS file...
 
-```
+```css
 /* the color is currently set to orange, change it as you please */
 
 ::selection {
@@ -25,7 +25,7 @@ the highlight color is set to orange in the code snippet above. Change the hexad
 
 Below, there is a code snippet where the highlight color has been changed to green
 
-```
+```css
 /* the color is currently set to lime green, change it as you please */
 
 ::selection {
@@ -41,7 +41,7 @@ Below, there is a code snippet where the highlight color has been changed to gre
 
 another great color to try is tomato
 
-```
+```css
 /* the color is currently set to tomato, change it as you please */
 
 ::selection {
