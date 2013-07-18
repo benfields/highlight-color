@@ -62,15 +62,6 @@ nothing needs to be added to the html file, only to the css, and only add it onc
 
 =======
 
-
-```
---> make sure to check out the live demo
-```
-
-### demo at [terld.com](http://terld.com/)
-
-======
-
 ### Source License
 
 The resources found here can be used freely in personal and commercial projects if integrated and built upon. If using this code, I expect that you let your users know that the source is available on GitHub, and tell them how to find it. This can be done in the form of a link. 
